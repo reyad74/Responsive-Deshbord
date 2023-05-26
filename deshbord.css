@@ -376,14 +376,14 @@ body {
   justify-content: center;
   width: 27%;
   height: 100%;
-  background: MediumSpringGreen;
-  box-shadow: 0 10px 20px 0 #3cb37177, inset 0px -7px 12px 1px MediumSeaGreen;
+  
+  box-shadow: 0 5px 10px 0 rgb(4, 245, 151), inset 0px -7px 12px 1px rgb(117, 236, 171);
   border-radius: 20px;
   transition: all 0.4s ease-in-out;
 }
 
 .clay-category svg {
-  fill: SeaGreen;
+  fill: rgb(106, 245, 228);
   width: 30px;
   height: auto;
   margin-right: 10px;
@@ -408,7 +408,7 @@ body {
 .clay-category:hover {
   cursor: pointer;
   transform: translateX(-15px);
-  background: SeaGreen !important;
+  background: rgb(4, 245, 151) !important;
   transition: all 0.4s ease-in-out;
 }
 
