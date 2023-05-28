@@ -392,6 +392,7 @@ body {
 
 .clay-category:nth-child(2) > svg {
   width: 37px;
+  
 }
 
 .clay-category:nth-child(3) > svg {
@@ -947,12 +948,12 @@ body {
 }
 
 .clay-category:nth-child(2) {
-  background: SpringGreen;
+  
   order: 1;
 }
 
 .clay-category:nth-child(3) {
-  background: PaleGreen;
+  
   order: 3;
 }
 
