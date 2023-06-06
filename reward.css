@@ -105,7 +105,7 @@ body {
   white-space: nowrap;
 }
 .desktop-1-jpi .history-iht {
-  width: 10.6rem;
+  width: 2.6rem;
   height: 3.7rem;
   position: absolute;
   left: 92.3rem;
@@ -284,6 +284,15 @@ body {
   color: #000000;
   font-family: Inter, 'Source Sans Pro';
   white-space: nowrap;
+}
+.desktop-1-jpi .arrow {
+  width: 5.9033rem;
+  height: 5.477rem;
+  position: absolute;
+  left: 2.7rem;
+  top: 5rem;
+  object-fit: contain;
+  vertical-align: top;
 }
 
 
