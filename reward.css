@@ -1,0 +1,287 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-jpi {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #bebfd5;
+}
+.desktop-1-jpi .rectangle-1-4Ei {
+  width: 83.8rem;
+  height: 95.9rem;
+  position: absolute;
+  left: 30.1rem;
+  top: 3.2rem;
+  background-color: #d9d9d9;
+  border-radius: 50%;
+  border-radius: 10rem;
+  backdrop-filter: blur(0.9rem);
+
+}
+.desktop-1-jpi .coins-UZL {
+  width: 10.7rem;
+  height: 4.9rem;
+  position: absolute;
+  left: 38rem;
+  top: 11.2rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .your-available-reward-coins-WgN {
+  width: 25.8rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 38.8rem;
+  top: 17.9rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .rectangle-2-Y7G {
+  width: 13.3rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 90.9rem;
+  top: 13.6rem;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  background-color: #e1cf0d;
+  border-radius: 2rem;
+}
+.desktop-1-jpi .item-200-Z2N {
+  width: 6.2rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 94.5rem;
+  top: 15.7rem;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .rectangle-3-ztN {
+  width: 75.8rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 26.6rem;
+  background-color: #d9d9d9;
+}
+.desktop-1-jpi .rewards-GL6 {
+  width: 12.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 38.5rem;
+  top: 29.5rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .history-iht {
+  width: 10.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 29.5rem;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .rectangle-4-ydp {
+  width: 66rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 39rem;
+  top: 43rem;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.desktop-1-jpi .rectangle-5-QsY {
+  width: 66rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 39rem;
+  top: 56.5rem;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.desktop-1-jpi .reward-2-F7U {
+  width: 13.5rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 53.3rem;
+  top: 59.5rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .rectangle-6-XKt {
+  width: 66rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 39rem;
+  top: 70rem;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.desktop-1-jpi .reward-3-jB4 {
+  width: 13.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 72.9rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .rectangle-7-nf8 {
+  width: 66rem;
+  height: 9.5rem;
+  position: absolute;
+  left: 39rem;
+  top: 83.5rem;
+  border: solid 0 #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0.4rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #d9d9d9;
+}
+.desktop-1-jpi .reward-4-FHp {
+  width: 13.6rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 86rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-1-jpi .uil-arrow-ihC {
+  width: 3.7524rem;
+  height: 2.5024rem;
+  position: absolute;
+  left: 97.2238rem;
+  top: 46.2488rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .uil-arrow-8kv {
+  width: 3.7524rem;
+  height: 2.5024rem;
+  position: absolute;
+  left: 97.2238rem;
+  top: 59.8488rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .uil-arrow-SFp {
+  width: 3.7524rem;
+  height: 2.5024rem;
+  position: absolute;
+  left: 97.2238rem;
+  top: 73.2488rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .uil-arrow-xEA {
+  width: 3.7524rem;
+  height: 2.5024rem;
+  position: absolute;
+  left: 97.2238rem;
+  top: 86.5488rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .arcticons-rewards-qok {
+  width: 3.9033rem;
+  height: 3.477rem;
+  position: absolute;
+  left: 42.85rem;
+  top: 46.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .arcticons-rewards-YCN {
+  width: 3.9033rem;
+  height: 3.477rem;
+  position: absolute;
+  left: 42.85rem;
+  top: 59.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .arcticons-rewards-SoY {
+  width: 3.9033rem;
+  height: 3.477rem;
+  position: absolute;
+  left: 42.85rem;
+  top: 73.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .arcticons-rewards-xmt {
+  width: 3.9033rem;
+  height: 3.477rem;
+  position: absolute;
+  left: 42.85rem;
+  top: 86.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-jpi .reward-1-s8A {
+  width: 13.1rem;
+  height: 3.7rem;
+  position: absolute;
+  left: 53.2rem;
+  top: 46.4rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
